@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Platform
+  - Home
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Obstacle
+  - Limit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1722558313
+    locked: 0
+  - name: Platform
+    uniqueID: 1988239971
+    locked: 0
+  - name: Obstacle
+    uniqueID: 539782791
+    locked: 0
+  - name: Limit
+    uniqueID: 1628666533
+    locked: 0
+  - name: Frog
+    uniqueID: 2157807997
+    locked: 0
+  m_RenderingLayers:
+  - Default
