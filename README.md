@@ -1,4 +1,4 @@
-# MTEC340 - MidtermProject - Prototype
+# MTEC340 - MidtermProject - ProFinal Submission
 
 **Name:** Robi Espinoza
 
@@ -19,3 +19,12 @@ To be integrated in next version:
 - Power-ups
 - Build
 - Start and Quit 
+
+Second Version (Jul 25, 2025) of Frogger includes:
+
+- Original Score 
+- Working scoring system and level tracker
+- Speed increments on each level
+- 1 Power-Up and 2 Power-downs
+- Mac Build and WebGL Build
+- Start Screen
