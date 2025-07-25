@@ -449,7 +449,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frogger Characters_12
+      name: FroggerJumpPowerUp
       rect:
         serializedVersion: 2
         x: 0
@@ -493,7 +493,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frogger Characters_14
+      name: FroggerStaticPowerUp
       rect:
         serializedVersion: 2
         x: 32
@@ -1263,7 +1263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frogger Characters_49
+      name: F
       rect:
         serializedVersion: 2
         x: 0
@@ -1285,7 +1285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frogger Characters_50
+      name: R
       rect:
         serializedVersion: 2
         x: 16
@@ -1307,7 +1307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frogger Characters_51
+      name: 0
       rect:
         serializedVersion: 2
         x: 32
@@ -1329,7 +1329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frogger Characters_52
+      name: G
       rect:
         serializedVersion: 2
         x: 48
@@ -1351,7 +1351,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frogger Characters_53
+      name: E
       rect:
         serializedVersion: 2
         x: 64
@@ -1408,18 +1408,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      0: 604457230
       Car1: -5863897002136429734
       Car2: -2965617118906093914
       Car3: -794345742409335981
       Car4: 6861689939623290177
       Car5: 802023549
+      E: 1170713537
+      F: -393895611
       FrogHome: 671934978966915074
       Frogger Characters_1: 409959267654759575
       Frogger Characters_10: -2768261540921495187
       Frogger Characters_11: 4771373629722190935
-      Frogger Characters_12: -6862310720711561855
       Frogger Characters_13: -6647594727384595656
-      Frogger Characters_14: 1980352251104145971
       Frogger Characters_16: -4227761711940626261
       Frogger Characters_17: 7307836369539296942
       Frogger Characters_18: 1905722896237347444
@@ -1446,20 +1447,19 @@ TextureImporter:
       Frogger Characters_43: -2256001365413523949
       Frogger Characters_44: 1723500347
       Frogger Characters_45: -1476317389
-      Frogger Characters_49: -393895611
       Frogger Characters_5: 1058485256499871337
-      Frogger Characters_50: -704146729
-      Frogger Characters_51: 604457230
-      Frogger Characters_52: 1777657584
-      Frogger Characters_53: 1170713537
       Frogger Characters_6: 8671958439932227288
       Frogger Characters_9: -8495557900973636165
       FroggerGameOver: 8613439687777459001
       FroggerJump: 2231513938789173852
+      FroggerJumpPowerUp: -6862310720711561855
       FroggerStatic: 2475022810791828858
+      FroggerStaticPowerUp: 1980352251104145971
+      G: 1777657584
       LogEnd: -1511257219
       LogMiddle: -330522167
       LogStar: 425147957
+      R: -704146729
       Turtle1: 8235812620755312929
       Turtle2: 2114663493254518762
       Turtle3: -5988955252396181175

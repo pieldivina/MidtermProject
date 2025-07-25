@@ -2,6 +2,13 @@ using UnityEngine;
 
 public class ObstaclesMovement : MonoBehaviour
 {
+    public static float SpeedMultiplier { get; private set; } = 1f;
+
+    public static void IncreaseSpeed(float amount)
+    {
+        SpeedMultiplier += amount;
+    }
+
     [SerializeField] private Vector2 _direction = Vector2.right;
     [SerializeField] private float _speed = 1f;
     [SerializeField] private float _size = 1f;
@@ -28,7 +35,12 @@ public class ObstaclesMovement : MonoBehaviour
         }
         else
         {
-            transform.Translate(_speed * Time.deltaTime * _direction );
+            transform.Translate(_speed * SpeedMultiplier * Time.deltaTime * _direction);
         }
+    }
+    
+    public static void ResetSpeed()
+    {
+        SpeedMultiplier = 1f;
     }
 }
